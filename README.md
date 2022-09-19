@@ -99,4 +99,4 @@ O Cache se comunica com o objeto que representa o acesso ao banco de dados.
 ![Untitled](Trabalho%20LabProg%202%20-%20Java%20ca27ae6c3cc34314b74cfba1fad93cb7/Untitled%2011.png)
 
 Classe que possui conexão com o banco de dados e realiza a consulta para criar o objeto que vai alimentar o funcionamento geral do código.
-Classe que possui conexão com o banco de dados e realiza a consulta para criar o objeto que vai alimentar o funcionamento geral do código.
+
