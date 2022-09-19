@@ -1,8 +1,5 @@
 # Trabalho LabProg 2 - Java
 
-Data: September 3, 2022 → September 10, 2022
-Status: Para a semana
-
 O código consiste das seguintes classes:
 
 - Main: É a classe que resume a aplicação, é aqui que está o programa com o qual o usuário irá interagir.
